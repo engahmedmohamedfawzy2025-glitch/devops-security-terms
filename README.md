@@ -167,5 +167,3 @@ Always perform cloning before build or test stages.
 🧩 Repository Goal:
 This repo explains core authentication and automation concepts every DevOps Engineer must master before implementing CI/CD in Jenkins or any other tool.
 
-yaml
-Copy code
